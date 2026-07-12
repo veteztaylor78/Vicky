@@ -1,0 +1,6 @@
+{
+  "name": "MAM's Empire",
+  "description": "A grand strategy medieval empire builder and management simulator where Emperor MAM rules supreme with help from an AI advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

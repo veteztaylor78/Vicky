@@ -3,7 +3,7 @@
 $host = "sql208.infinityfree.com";
 $dbname = "if0_42503845_ai_vet_tech";
 $username = "if0_42503845";
-$password = "Greatness198010"; // Replace with your real MySQL password
+$password = "Greatness198010";
 
 try {
     $pdo = new PDO(
